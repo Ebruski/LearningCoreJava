@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaBasics/JavaBasics.iml" filepath="$PROJECT_DIR$/JavaBasics/JavaBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearningCoreJava.iml" filepath="$PROJECT_DIR$/LearningCoreJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/MorePrograms/MorePrograms.iml" filepath="$PROJECT_DIR$/MorePrograms/MorePrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/NonStaticMembers/NonStaticMembers.iml" filepath="$PROJECT_DIR$/NonStaticMembers/NonStaticMembers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Packages/Packages.iml" filepath="$PROJECT_DIR$/Packages/Packages.iml" />
