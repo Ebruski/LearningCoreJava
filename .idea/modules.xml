@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" filepath="$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Annotations/Annotations.iml" filepath="$PROJECT_DIR$/Annotations/Annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommandLineArguments/CommandLineArguments.iml" filepath="$PROJECT_DIR$/CommandLineArguments/CommandLineArguments.iml" />
@@ -17,9 +18,12 @@
       <module fileurl="file://$PROJECT_DIR$/FlowControl/FlowControl.iml" filepath="$PROJECT_DIR$/FlowControl/FlowControl.iml" />
       <module fileurl="file://$PROJECT_DIR$/GarbageCollection/GarbageCollection.iml" filepath="$PROJECT_DIR$/GarbageCollection/GarbageCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/I18N/I18N.iml" filepath="$PROJECT_DIR$/I18N/I18N.iml" />
       <module fileurl="file://$PROJECT_DIR$/IOStreams/IOStreams.iml" filepath="$PROJECT_DIR$/IOStreams/IOStreams.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/InnerClasses/InnerClasses.iml" filepath="$PROJECT_DIR$/InnerClasses/InnerClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMArhitecture/JVMArhitecture.iml" filepath="$PROJECT_DIR$/JVMArhitecture/JVMArhitecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8Features/Java8Features.iml" filepath="$PROJECT_DIR$/Java8Features/Java8Features.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaBasics/JavaBasics.iml" filepath="$PROJECT_DIR$/JavaBasics/JavaBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearningCoreJava.iml" filepath="$PROJECT_DIR$/LearningCoreJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/MorePrograms/MorePrograms.iml" filepath="$PROJECT_DIR$/MorePrograms/MorePrograms.iml" />
@@ -29,6 +33,8 @@
       <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Packages/Packages.iml" filepath="$PROJECT_DIR$/Packages/Packages.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions/RegularExpressions.iml" filepath="$PROJECT_DIR$/RegularExpressions/RegularExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringHandling/StringHandling.iml" filepath="$PROJECT_DIR$/StringHandling/StringHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/WapperClasses/WapperClasses.iml" filepath="$PROJECT_DIR$/WapperClasses/WapperClasses.iml" />
     </modules>
